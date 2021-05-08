@@ -1,6 +1,6 @@
 # Description
 
-A set of 12 Python Projects to help beginners get comfortable with the python language. I was looking for a set of projects which can help someone new to Python practice their skills and get comfortable with python over a period of time. Inspired by the set of of projects by freeCodeCamp.org, presented on youtube by Kyslie Ying.
+A set of 12 Python Projects to help beginners get comfortable with the python language. I was looking for a set of projects which can help someone new to Python practice their skills and get comfortable with python over a period of time. Inspired by the set of of projects by freeCodeCamp.org, presented on youtube by [Kylie Ying](https://github.com/kying18).
 
 [Youtube video](https://www.youtube.com/watch?v=8ext9G7xspg)
 
